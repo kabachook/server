@@ -1,0 +1,10 @@
+{
+  "log-driver": "local",
+  "log-opts": {
+    "max-size": "100m",
+    "max-file": "3"
+  },
+  "userland-proxy": false,
+  "iptables": true,
+  "live-restore": true
+}
